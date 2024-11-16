@@ -1,0 +1,94 @@
+@import "font/font.css.css"; 
+.title{
+   
+   font-size: 200%;
+   color: #2E64FE; 
+   font-family: 'lillyregular';
+   margin-top: 10px;
+   margin-right: 200px;
+   
+   
+}
+
+#area{
+    
+     margin-top: 0px;
+    
+}
+
+.uno{
+    
+    background: #04B404;//color de borde verde-oscuro
+    color: white;
+    font-size:1.25em;
+    margin: 20px;
+    padding:10px 0px;
+    text-align:center;
+    width: 150px;
+    font-family: 'lillyregular';
+    box-shadow:0px 3px 0px #088A08;//color de frente verde_reoscuro
+    border: 0; 
+    margin-top: 35px;
+}
+
+.ocho{
+    
+    background: #A00C99;//color de borde verde-oscuro
+    color: white;//color de letra blanco
+    font-size:-4.25em;
+    margin: 4px;
+    padding:5px 0px;
+    text-align:center;
+    width: 150px;
+    font-family: 'lillyregular';
+    box-shadow:0px 3px 0px #71046F;//color de frente verde_reoscuro
+    border: 0; 
+    margin-top: 5px;
+}
+
+.ocho:hover{
+    
+    background:#50024E; //color de fondo verde como claro
+    box-shadow:0px 3px 0px #1D011C ;//color de fondo verde oscuro
+
+}
+.uno:hover{
+    
+    background:#088A08; //color de fondo verde como claro
+    box-shadow:0px 3px 0px #0B610B ;//color de fondo verde oscuro
+    
+}
+
+#area{
+    font-family: 'lillyregular';
+}
+
+a{ 
+    text-decoration: none; 
+    float: left;
+}
+p{       
+       color: #2E64FE;
+        font-family: 'lillyregular';
+        margin-right: 200px;
+}
+
+#jinx{
+    
+    margin-bottom: 10px;
+     font-family: 'lillyregular';   
+}
+
+#jax{
+    
+    margin-bottom: 50px;
+    
+    
+    
+}
+
+table{
+    
+    margin-right: 200px;
+    
+}
